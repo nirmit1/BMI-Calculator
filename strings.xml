@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI calculator</string>
+    <string name="h">Height(in inches)</string>
+    <string name="w">Weight(in kg)</string>
+    <string name="ans">BMI</string>
+    <string name="calc">Calculate</string>
+    <string name="comment">Comment</string>
+    <string name="nss">NSS</string>
+</resources>
